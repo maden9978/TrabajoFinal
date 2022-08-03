@@ -1,0 +1,12 @@
+-Descargar selenium en: https://www.selenium.dev/downloads/
+
+- pip install selenium
+
+-Para poder utilizar selenium en tu navegador debes instalar el drive compatible con tu versión
+de chrome el cual se encuentra aquí: https://chromedriver.chromium.org/downloads
+
+-Ya descargado el archivo, extraer el driver y para evitar poner una ruta específica en el
+código, se coloca el driver en: C:\Windows
+
+-Para poder mandar correos desde Python se debe configurar el gmail utilizando la
+verificación de dos pasos en: https://myaccount.google.com/security?hl=es
