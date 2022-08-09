@@ -1,6 +1,14 @@
+AVISO:
+
+-Para que el programa haga su función correcta de comparar precios se debe ser muy específico con el producto que se desea,
+ con una expresión más simple usted obtendrá una lista con todos los productos relacionados con sus respectivos precios de las respectivas tiendas. 
+
+
+INSTRUCCIONES:
+
 -Descargar selenium en: https://www.selenium.dev/downloads/
 
-- pip install selenium
+-Instalar selenium, pip install selenium
 
 -Para poder utilizar selenium en tu navegador debes instalar el drive compatible con tu versión
 de chrome el cual se encuentra aquí: https://chromedriver.chromium.org/downloads
